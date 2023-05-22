@@ -11,9 +11,9 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     { songName: "Ye Tune Kya Kia", filePath: "songs/1.mp3", coverPath: "covers/1.jpg" },
     { songName: "Mere Rashke Qamar", filePath: "songs/2.mp3", coverPath: "covers/2.jpg" },
-    { songName: "Salam-e-Ishq3", filePath: "songs/3.mp3", coverPath: "covers/3.jpg" },
-    { songName: "Salam-e-Ishq4", filePath: "songs/4.mp3", coverPath: "covers/4.jpg" },
-    { songName: "Salam-e-Ishq5", filePath: "songs/5.mp3", coverPath: "covers/5.jpg" },
+    { songName: "Radhe Radhe Bol", filePath: "songs/3.mp3", coverPath: "covers/3.jpg" },
+    { songName: "Mere Ghar Ram Aaye h", filePath: "songs/4.mp3", coverPath: "covers/4.jpg" },
+    { songName: "Bol Kaffara Kya Hoga", filePath: "songs/5.mp3", coverPath: "covers/5.jpg" },
     { songName: "Salam-e-Ishq6", filePath: "songs/6.mp3", coverPath: "covers/6.jpg" },
     { songName: "Salam-e-Ishq7", filePath: "songs/7.mp3", coverPath: "covers/7.jpg" },
     { songName: "Salam-e-Ishq8", filePath: "songs/8.mp3", coverPath: "covers/8.jpg" },
